@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fahd Ahmad
 
-## 🚀 AI/ML Engineer | UAE Golden Visa Recipient | Software Engineering Graduate
+## 🚀 AI/ML Engineer | Software Engineering Graduate
 
 Welcome to my GitHub! I'm a passionate software engineer specializing in **Machine Learning**, **AI-driven solutions**, and **full-stack development**. Currently based in Abu Dhabi, UAE, I love building innovative projects that solve real-world problems.
 
