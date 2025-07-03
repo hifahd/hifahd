@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate software engineer specializing in **Machi
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [🤖 Personal Knowledge Assistant](https://github.com/hifahd/knowledge-assistant) | RAG system with hybrid search & local LLM integration | Python, ChromaDB, LangChain, Ollama | ✅ Production |
+| [🤖 Personal Knowledge Assistant](https://github.com/hifahd/personal_knowledge_assistant) | RAG system with hybrid search & local LLM integration | Python, ChromaDB, LangChain, Ollama | ✅ Production |
 | [📈 Stock Prediction MLOps](https://github.com/hifahd/stock-prediction-mlops) | End-to-end ML pipeline with 146+ technical indicators | Python, MLflow, Optuna, Streamlit | ✅ Production |
 | [🦾 Prosthetic AR App](https://github.com/hifahd/prosthetic_ar_app) | AR visualization for prosthetic limb customization | Flutter, ARKit/ARCore, MediaPipe | 🎓 Final Year Project |
 | [🔒 SecureAdaptive](https://github.com/hifahd/SecureAdaptive) | Dynamic file security with trust scoring | Python Flask, SQLite | ✅ Complete |
